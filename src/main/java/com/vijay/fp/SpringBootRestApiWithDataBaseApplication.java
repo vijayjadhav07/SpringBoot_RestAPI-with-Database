@@ -11,6 +11,8 @@ public class SpringBootRestApiWithDataBaseApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootRestApiWithDataBaseApplication.class, args);
 		System.err.println("Hello");
+            System.err.println("Hello we are doing cloning through Github");
+
 	}
 
 	@Bean
