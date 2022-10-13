@@ -22,7 +22,7 @@ public class Foodproduct {
 
 	public Foodproduct() {
 		super();
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stub hello entity class
 	}
 
 	public Foodproduct(String productId, String productName, int productQnty, double productPrice,
